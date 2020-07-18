@@ -27,6 +27,6 @@ Contents include cleaned data and visualisations of various regions' RTO vehicle
 <br/>
 
 ### My Work Included :
-1. Plotting region-wise graphs for change in number of various types of vehicles.
-2. Plotting region-wise pie-charts comparing change in number of private / commercial vehicles over the given period of 17 years.
-3. Create an interactive Webpage using **Image Mapping** for easier access to the visualized data {A map of Maharashtra with boundaries of various regions, and on clicking each region, one is able to see numerous visualizations pertaining to that region.}.
+1. Plotting region-wise graphs for change in number of various types of vehicles using **Matplotlib**.
+2. Plotting region-wise pie-charts comparing change in number of private / commercial vehicles over the given period of 17 years using **Matplotlib**.
+3. Create an interactive Webpage using **Image Mapping** for easier access to the visualized data {A map of Maharashtra with boundaries of various regions, and on clicking each region, one is able to see numerous visualizations pertaining to that region}.
